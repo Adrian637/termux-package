@@ -16,6 +16,8 @@ Step 4. Once cut, you go to the page. / storage / emulated / 0
 
 How to get? 
 
+  termux-setup-storage
+
   cd /sdcard
 
   ls
